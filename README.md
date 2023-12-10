@@ -14,6 +14,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 02 | 3 | WAP to divide 4 by 9 and print in integer, print the integer after conversion to float, and print float. Also use truncation of decimal points. | [code](Code_Solutions/Day_2/Program_3.c) |
 | 02 | 4 | WAP to take an integer as a user input and print its equivalent ASCII Character. | [code](Code_Solutions/Day_2/Program_4.c) |
 | 02 | 5 | WAP to create a global integer variable  and print its value. | [code](Code_Solutions/Day_2/Program_5.c) |
+| 03 | 1 | WAP to import Date and Time and display it. | [code](Code_Solutions/Day_3/Program_1.c) |
+| 03 | 2 | WAP to use define variable and store value of PI in it and display it. | [code](Code_Solutions/Day_3/Program_2.c) |
+| 03 | 3 | WAP to use define statement in order to define a function of adding two numbers. | [code](Code_Solutions/Day_3/Program_3.c) |
+| 03 | 4 | WAP to use define statement in order to define an if else statement. | [code](Code_Solutions/Day_3/Program_4.c) |
+| 03 | 5 | WAP to understand the use of method declaration and method calling. | [code](Code_Solutions/Day_3/Program_5.c) |
 
 
 ## Programming language used :-
