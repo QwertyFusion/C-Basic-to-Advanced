@@ -19,6 +19,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 03 | 3 | WAP to use define statement in order to define a function of adding two numbers. | [code](Code_Solutions/Day_3/Program_3.c) |
 | 03 | 4 | WAP to use define statement in order to define an if else statement. | [code](Code_Solutions/Day_3/Program_4.c) |
 | 03 | 5 | WAP to understand the use of method declaration and method calling. | [code](Code_Solutions/Day_3/Program_5.c) |
+| 04 | 1 | WAP to input the number of days and print it in equivalent number of month and days. | [code](Code_Solutions/Day_4/Program_1.c) |
+| 04 | 2 | WAP to understand the working of pre increment, post increment and ternary operator. | [code](Code_Solutions/Day_4/Program_2.c) |
+| 04 | 3 | WAP to see the working of pre increment and post increment | [code](Code_Solutions/Day_4/Program_3.c) |
+| 04 | 4 | WAP to see the working of ternary operator. | [code](Code_Solutions/Day_4/Program_4.c) |
+| 04 | 5 | WAP to input three numbers and print the highest of the three. | [code](Code_Solutions/Day_4/Program_5.c) |
 
 
 ## Programming language used :-
