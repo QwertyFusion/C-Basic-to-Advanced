@@ -21,9 +21,14 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 03 | 5 | WAP to understand the use of method declaration and method calling. | [code](Code_Solutions/Day_3/Program_5.c) |
 | 04 | 1 | WAP to input the number of days and print it in equivalent number of month and days. | [code](Code_Solutions/Day_4/Program_1.c) |
 | 04 | 2 | WAP to understand the working of pre increment, post increment and ternary operator. | [code](Code_Solutions/Day_4/Program_2.c) |
-| 04 | 3 | WAP to see the working of pre increment and post increment | [code](Code_Solutions/Day_4/Program_3.c) |
+| 04 | 3 | WAP to see the working of pre increment and post increment. | [code](Code_Solutions/Day_4/Program_3.c) |
 | 04 | 4 | WAP to see the working of ternary operator. | [code](Code_Solutions/Day_4/Program_4.c) |
 | 04 | 5 | WAP to input three numbers and print the highest of the three. | [code](Code_Solutions/Day_4/Program_5.c) |
+| 05 | 1 | WAP to input temperature in Fahrenheit and convert it to Centigrade. | [code](Code_Solutions/Day_5/Program_1.c) |
+| 05 | 2 | WAP to input amount of seconds and convert it to equivalent hours, minutes and seconds. | [code](Code_Solutions/Day_5/Program_2.c) |
+| 05 | 3 | WAP to input two numbers and swap them without using a third variable. | [code](Code_Solutions/Day_5/Program_3.c) |
+| 05 | 4 | WAP to input two numbers and swap them in one line. | [code](Code_Solutions/Day_5/Program_4.c) |
+| 05 | 5 | WAP to input hours minutes and days twice, add them and display the result. | [code](Code_Solutions/Day_5/Program_5.c) |
 
 
 ## Programming language used :-
