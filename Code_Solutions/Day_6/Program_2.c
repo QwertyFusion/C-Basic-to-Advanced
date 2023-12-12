@@ -1,4 +1,4 @@
-/* Question 1:
+/* Question 2:
 WAP to input two numbers and do the following: Logical and, logical or, logical not, bitwise and, bitwise or, bitwise not.
 */
 
