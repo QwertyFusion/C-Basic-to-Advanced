@@ -35,6 +35,12 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 06 | 4 | Test the following code and see if you can understand the concept. | [code](Code_Solutions/Day_6/Program_4.c) |
 | 06 | 5 | WAP to input a number and use if statement on it. | [code](Code_Solutions/Day_6/Program_5.c) |
 
+| 06 | 1 | WAP to calculate electricity bill. | [code](Code_Solutions/Day_7/Program_1.c) |
+| 06 | 2 | WAP to count total number of notes in given amount. | [code](Code_Solutions/Day_7/Program_2.c) |
+| 06 | 3 | WAP to check whether a character is alphabet, digit or special character. | [code](Code_Solutions/Day_7/Program_3.c) |
+| 06 | 4 | WAP to input an alphabet and convert it into uppercase if the entered alphabet is in lowercase. | [code](Code_Solutions/Day_7/Program_4.c) |
+| 06 | 5 | WAP to read a character from the user and test it whether it a vowel or consonant or not an alphabet. | [code](Code_Solutions/Day_7/Program_5.c) |
+
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
