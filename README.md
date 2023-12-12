@@ -28,8 +28,12 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 05 | 2 | WAP to input amount of seconds and convert it to equivalent hours, minutes and seconds. | [code](Code_Solutions/Day_5/Program_2.c) |
 | 05 | 3 | WAP to input two numbers and swap them without using a third variable. | [code](Code_Solutions/Day_5/Program_3.c) |
 | 05 | 4 | WAP to input two numbers and swap them in one line. | [code](Code_Solutions/Day_5/Program_4.c) |
-| 05 | 5 | WAP to input hours minutes and days twice, add them and display the result. | [code](Code_Solutions/Day_5/Program_5.c) |
-
+| 05 | 5 | WAP to input hours minutes and days twice, add them and display the result. | [code](Code_Solutions/Day_5/Program_5.c) 
+| 06 | 1 | WAP to input two numbers and do the following operations: add, subtract, multiply, divide, modulus. | [code](Code_Solutions/Day_6/Program_1.c) |
+| 06 | 2 | WAP to input two numbers and do the following: Logical and, logical or, logical not, bitwise and, bitwise or, bitwise not. | [code](Code_Solutions/Day_6/Program_2.c) |
+| 06 | 3 | WAP to input two numbers and swap them using xor operation. | [code](Code_Solutions/Day_6/Program_3.c) |
+| 06 | 4 | Test the following code and see if you can understand the concept. | [code](Code_Solutions/Day_6/Program_4.c) |
+| 06 | 5 | WAP to input a number and use if statement on it. | [code](Code_Solutions/Day_6/Program_5.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
