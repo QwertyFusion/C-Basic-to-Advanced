@@ -39,6 +39,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 07 | 3 | WAP to check whether a character is alphabet, digit or special character. | [code](Code_Solutions/Day_7/Program_3.c) |
 | 07 | 4 | WAP to input an alphabet and convert it into uppercase if the entered alphabet is in lowercase. | [code](Code_Solutions/Day_7/Program_4.c) |
 | 07 | 5 | WAP to read a character from the user and test it whether it a vowel or consonant or not an alphabet. | [code](Code_Solutions/Day_7/Program_5.c) |
+| 08 | 1 | WAP to check whether a number is even or odd. | [code](Code_Solutions/Day_8/Program_1.c) |
+| 08 | 2 | WAP to check vowel or consonant. | [code](Code_Solutions/Day_8/Program_2.c) |
+| 08 | 3 | WAP to find all roots of a quadratic equation. | [code](Code_Solutions/Day_8/Program_3.c) |
+| 08 | 4 | WAP to calculate profit or loss. | [code](Code_Solutions/Day_8/Program_4.c) |
+| 08 | 5 | WAP to calculate salary of an employee based on the given info. | [code](Code_Solutions/Day_8/Program_5.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
