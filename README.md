@@ -44,6 +44,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 08 | 3 | WAP to find all roots of a quadratic equation. | [code](Code_Solutions/Day_8/Program_3.c) |
 | 08 | 4 | WAP to calculate profit or loss. | [code](Code_Solutions/Day_8/Program_4.c) |
 | 08 | 5 | WAP to calculate salary of an employee based on the given info. | [code](Code_Solutions/Day_8/Program_5.c) |
+| 09 | 1 | WAP to calculate salary based on the given info. | [code](Code_Solutions/Day_9/Program_1.c) |
+| 09 | 2 | WAP to check whether a triangle is valid. | [code](Code_Solutions/Day_9/Program_2.c) |
+| 09 | 3 | WAP to display whether a triangle is scalene, isosceles or equilateral. | [code](Code_Solutions/Day_9/Program_3.c) |
+| 09 | 4 | WAP to display the number of days depending on the number of the month. | [code](Code_Solutions/Day_9/Program_4.c) |
+| 09 | 5 | WAP to check whether a an alphabet is uppercase or lowercase. | [code](Code_Solutions/Day_9/Program_5.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
