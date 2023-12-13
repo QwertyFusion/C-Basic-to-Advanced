@@ -49,6 +49,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 09 | 3 | WAP to display whether a triangle is scalene, isosceles or equilateral. | [code](Code_Solutions/Day_9/Program_3.c) |
 | 09 | 4 | WAP to display the number of days depending on the number of the month. | [code](Code_Solutions/Day_9/Program_4.c) |
 | 09 | 5 | WAP to check whether a an alphabet is uppercase or lowercase. | [code](Code_Solutions/Day_9/Program_5.c) | 
+| 10 | 1 | Write a C program to find the roots of a quadratic equation using a switch case. | [code](Code_Solutions/Day_10/Program_1.c) |
+| 10 | 2 | Write a C program to create a Simple Calculator using a switch case. | [code](Code_Solutions/Day_10/Program_2.c) |
+| 10 | 3 | Write a C program to enter a number and print its reverse. | [code](Code_Solutions/Day_10/Program_3.c) |
+| 10 | 4 | Write a C program to check whether a number is a palindrome or not. | [code](Code_Solutions/Day_10/Program_4.c) |
+| 10 | 5 | Write a C program to find the frequency of the h digit in a given integer. | [code](Code_Solutions/Day_10/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
