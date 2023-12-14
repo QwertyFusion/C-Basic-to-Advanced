@@ -54,6 +54,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 10 | 3 | Write a C program to enter a number and print its reverse. | [code](Code_Solutions/Day_10/Program_3.c) |
 | 10 | 4 | Write a C program to check whether a number is a palindrome or not. | [code](Code_Solutions/Day_10/Program_4.c) |
 | 10 | 5 | Write a C program to find the frequency of the h digit in a given integer. | [code](Code_Solutions/Day_10/Program_5.c) | 
+| 11 | 1 | Write a C program to print all natural numbers from 1 to n. - using while loop. | [code](Code_Solutions/Day_11/Program_1.c) |
+| 11 | 2 | Write a C program to print all even numbers between 1 to 100. - using while loop. | [code](Code_Solutions/Day_11/Program_2.c) |
+| 11 | 3 | Write a C program to find the sum of all natural numbers between 1 and n. | [code](Code_Solutions/Day_11/Program_3.c) |
+| 11 | 4 | Write a C program to find the sum of all odd numbers between 1 and n. | [code](Code_Solutions/Day_11/Program_4.c) |
+| 11 | 5 | Write a C program to count the number of digits in a number. | [code](Code_Solutions/Day_11/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
