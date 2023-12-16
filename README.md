@@ -62,8 +62,8 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 12 | 1 | Write a C program to find the sum of all prime numbers between 1 and n. | [code](Code_Solutions/Day_12/Program_1.c) |
 | 12 | 2 | Write a C program to print all Armstrong numbers between 1 to n. | [code](Code_Solutions/Day_12/Program_2.c) |
 | 12 | 3 | Write a C program to check whether a number is a Perfect number or not. | [code](Code_Solutions/Day_12/Program_3.c) |
-| 12 | 4 | Write a C program to print all Strong numbers between 1 to n. | [code](Code_Solutions/Day_12/Program_4.c) |
-| 12 | 5 | Write a C program to print the Fibonacci series up to n terms. | [code](Code_Solutions/Day_12/Program_5.c) | 
+| 12 | 4 | Write a C program to print all Strong numbers between 1 to n. | [code](Code_Solutions/Day_12/Program_4.c)  |
+| 12 | 5 | Write a C program to print the Fibonacci series up to n terms. | [code](Code_Solutions/Day_12/Program_5.c) |  
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
