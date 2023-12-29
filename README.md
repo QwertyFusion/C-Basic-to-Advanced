@@ -64,6 +64,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 12 | 3 | Write a C program to check whether a number is a Perfect number or not. | [code](Code_Solutions/Day_12/Program_3.c) |
 | 12 | 4 | Write a C program to print all Strong numbers between 1 to n. | [code](Code_Solutions/Day_12/Program_4.c)  |
 | 12 | 5 | Write a C program to print the Fibonacci series up to n terms. | [code](Code_Solutions/Day_12/Program_5.c) |  
+| 13 | 1 | Write a C program to find power of a number using for loop. | [code](Code_Solutions/Day_13/Program_1.c) |
+| 13 | 2 | Write a C program to find all factors of a number. | [code](Code_Solutions/Day_13/Program_2.c) |
+| 13 | 3 | Write a C program to calculate factorial of a number. | [code](Code_Solutions/Day_13/Program_3.c) |
+| 13 | 4 | Write a C program to find HCF (GCD) of two numbers. | [code](Code_Solutions/Day_13/Program_4.c)  |
+| 13 | 5 | Write a C program to find LCM of two numbers. | [code](Code_Solutions/Day_13/Program_5.c) |  
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
