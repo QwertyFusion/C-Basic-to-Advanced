@@ -69,6 +69,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 13 | 3 | Write a C program to calculate factorial of a number. | [code](Code_Solutions/Day_13/Program_3.c) |
 | 13 | 4 | Write a C program to find HCF (GCD) of two numbers. | [code](Code_Solutions/Day_13/Program_4.c)  |
 | 13 | 5 | Write a C program to find LCM of two numbers. | [code](Code_Solutions/Day_13/Program_5.c) |  
+| 14 | 1 | Write a C program to find one's complement of a binary number. | [code](Code_Solutions/Day_14/Program_1.c) |
+| 14 | 2 | Write a C program to find two's complements of a binary number. | [code](Code_Solutions/Day_14/Program_2.c) |
+| 14 | 3 | Write a C program to convert Binary to an Octal number system. | [code](Code_Solutions/Day_14/Program_3.c) |
+| 14 | 4 | Write a C program to convert Binary to Decimal number system. | [code](Code_Solutions/Day_14/Program_4.c)  |
+| 14 | 5 | Write a C program to convert Binary to Hexadecimal number system. | [code](Code_Solutions/Day_14/Program_5.c) |  
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
