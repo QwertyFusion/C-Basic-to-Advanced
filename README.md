@@ -74,6 +74,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 14 | 3 | Write a C program to convert Binary to an Octal number system. | [code](Code_Solutions/Day_14/Program_3.c) |
 | 14 | 4 | Write a C program to convert Binary to Decimal number system. | [code](Code_Solutions/Day_14/Program_4.c)  |
 | 14 | 5 | Write a C program to convert Binary to Hexadecimal number system. | [code](Code_Solutions/Day_14/Program_5.c) |  
+| 15 | 1 | Write a C program to convert Octal to a Binary number system. | [code](Code_Solutions/Day_15/Program_1.c) |
+| 15 | 2 | Write a C program to convert Octal to a Decimal number system. | [code](Code_Solutions/Day_15/Program_2.c) |
+| 15 | 3 | Write a C program to convert Octal to Hexadecimal number system. | [code](Code_Solutions/Day_15/Program_3.c) |
+| 15 | 4 | Write a C program to convert Decimals to a Binary number system. | [code](Code_Solutions/Day_15/Program_4.c)  |
+| 15 | 5 | Write a C program to convert a Decimal to an Octal number system. | [code](Code_Solutions/Day_15/Program_5.c) |  
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
