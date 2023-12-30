@@ -1,6 +1,9 @@
 # C Programming Basic to Advanced
-A simple C Programming Basics to Advanced Roadmap for 30 days. 
-C programming is a powerful and versatile language widely used for system programming, embedded systems, and developing applications ranging from operating systems to game development. Its syntax allows for low-level memory manipulation and efficient performance, making it a preferred choice for many software engineers.
+<p align="center">
+  <img src="https://raw.github.com/QwertyFusion/C-Basic-to-Advanced/master/images/c-programming.jpg" alt="Custom image"/>
+</p>
+<p>A simple C Programming Basics to Advanced Roadmap for 30 days. </p>
+<p>C programming is a powerful and versatile language widely used for system programming, embedded systems, and developing applications ranging from operating systems to game development. Its syntax allows for low-level memory manipulation and efficient performance, making it a preferred choice for many software engineers.</p>
 
 ## Content
 |Day | Q No.| Question | Solution in C |
