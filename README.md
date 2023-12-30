@@ -93,7 +93,12 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 18 | 2 | Write a C program to insert an element in an array. | [code](Code_Solutions/Day_18/Program_2.c) |
 | 18 | 3 | Write a C program to count the frequency of each element in an array. | [code](Code_Solutions/Day_18/Program_3.c) |
 | 18 | 4 | Write a C program to delete all duplicate elements from an array. | [code](Code_Solutions/Day_18/Program_4.c)  |
-| 18 | 5 | Write a C program to find the reverse use of an array. | [code](Code_Solutions/Day_18/Program_5.c) | 
+| 18 | 5 | Write a C program to find the reverse use of an array. | [code](Code_Solutions/Day_18/Program_5.c) |
+| 19 | 1 | C program to find transpose of a matrix. | [code](Code_Solutions/Day_19/Program_1.c) |
+| 19 | 2 | C program to multiply two matrices. | [code](Code_Solutions/Day_19/Program_2.c) |
+| 19 | 3 | C program to find determinant of 3x3 matrix. | [code](Code_Solutions/Day_19/Program_3.c) |
+| 19 | 4 | C program to check sparse matrix. | [code](Code_Solutions/Day_19/Program_4.c)  |
+| 19 | 5 | C program to check whether a matrix is Identity matrix or not. | [code](Code_Solutions/Day_19/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
