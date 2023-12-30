@@ -79,6 +79,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 15 | 3 | Write a C program to convert Octal to Hexadecimal number system. | [code](Code_Solutions/Day_15/Program_3.c) |
 | 15 | 4 | Write a C program to convert Decimals to a Binary number system. | [code](Code_Solutions/Day_15/Program_4.c)  |
 | 15 | 5 | Write a C program to convert a Decimal to an Octal number system. | [code](Code_Solutions/Day_15/Program_5.c) |  
+| 16 | 1 | WAP to print a down arrow (filled). | [code](Code_Solutions/Day_16/Program_1.c) |
+| 16 | 2 | WAP to print down traingle (hollow). | [code](Code_Solutions/Day_16/Program_2.c) |
+| 16 | 3 | WAP to print inverted Diamond. | [code](Code_Solutions/Day_16/Program_3.c) |
+| 16 | 4 | WAP to print X Pattern. | [code](Code_Solutions/Day_16/Program_4.c)  |
+| 16 | 5 | C program to print heart star pattern with center name. | [code](Code_Solutions/Day_16/Program_5.c) |  
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
