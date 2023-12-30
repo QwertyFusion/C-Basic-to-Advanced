@@ -89,6 +89,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 17 | 3 | WAP to check even or not using functions. | [code](Code_Solutions/Day_17/Program_3.c) |
 | 17 | 4 | WAP to check if the number is Prime, is Armstrong and is Perfect or not using functions. | [code](Code_Solutions/Day_17/Program_4.c)  |
 | 17 | 5 | WAP to print Strong numbers in a range using functions. | [code](Code_Solutions/Day_17/Program_5.c) | 
+| 18 | 1 | Write a C program to find the second largest element in an array. | [code](Code_Solutions/Day_18/Program_1.c) |
+| 18 | 2 | Write a C program to insert an element in an array. | [code](Code_Solutions/Day_18/Program_2.c) |
+| 18 | 3 | Write a C program to count the frequency of each element in an array. | [code](Code_Solutions/Day_18/Program_3.c) |
+| 18 | 4 | Write a C program to delete all duplicate elements from an array. | [code](Code_Solutions/Day_18/Program_4.c)  |
+| 18 | 5 | Write a C program to find the reverse use of an array. | [code](Code_Solutions/Day_18/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
