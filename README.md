@@ -111,6 +111,9 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 23 | 1 | Singly Linked List Operations. | [code](Code_Solutions/Day_23/Program_1.c) |
 | 23 | 2 | Singly Linked List Reverse, sorting and searching. | [code](Code_Solutions/Day_23/Program_2.c) |
 | 23 | 3 | WAP to perform the addition of two polynomial equations using Linked List. | [code](Code_Solutions/Day_23/Program_1.c) |
+| 24 | 1 | Double Linked List Operations. | [code](Code_Solutions/Day_24/Program_1.c) |
+| 24 | 2 | Write a program to create a circular linked list and display the elements of the list. | [code](Code_Solutions/Day_24/Program_2.c) |
+| 24 | 3 | Write a program to represent the given sparse matrix using header single linked list and display it. | [code](Code_Solutions/Day_24/Program_1.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
