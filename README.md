@@ -1,5 +1,6 @@
 # C Programming Basic to Advanced
-C Programming Basics to Advanced Tutorials day by day basics.
+A simple C Programming Basics to Advanced Roadmap for 30 days. 
+C programming is a powerful and versatile language widely used for system programming, embedded systems, and developing applications ranging from operating systems to game development. Its syntax allows for low-level memory manipulation and efficient performance, making it a preferred choice for many software engineers.
 
 ## Content
 |Day | Q No.| Question | Solution in C |
