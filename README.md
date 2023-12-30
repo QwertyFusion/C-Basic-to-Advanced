@@ -117,6 +117,9 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 25 | 1 | Stack Operations Using Array. | [code](Code_Solutions/Day_25/Program_1.c) |
 | 25 | 2 | Stack Operations Using Linked List. | [code](Code_Solutions/Day_25/Program_2.c) |
 | 25 | 3 | Write a program to convert infix expression to postfix operation using stack. | [code](Code_Solutions/Day_25/Program_3.c) |
+| 26 | 1 | Linear Queue Operations Using Array. | [code](Code_Solutions/Day_26/Program_1.c) |
+| 26 | 2 | Linear Queue Operations Using Linked List. | [code](Code_Solutions/Day_26/Program_2.c) |
+| 26 | 3 | Circular Queue Operations Using Array. | [code](Code_Solutions/Day_26/Program_3.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
