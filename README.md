@@ -107,13 +107,16 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 21 | 2 | WAP to write the digits in words. | [code](Code_Solutions/Day_21/Program_2.c) |
 | 22 | 1 | WAP to perform transpose of a given sparse matrix in 3-tuple format. | [code](Code_Solutions/Day_22/Program_1.c) |
 | 22 | 2 | WAP to perform addition of two given sparse matrix in 3–tuple format. | [code](Code_Solutions/Day_22/Program_2.c) |
-| 22 | 3 | WAP to perform the addition of two polynomial equations using Array. | [code](Code_Solutions/Day_22/Program_1.c) |
+| 22 | 3 | WAP to perform the addition of two polynomial equations using Array. | [code](Code_Solutions/Day_22/Program_3.c) |
 | 23 | 1 | Singly Linked List Operations. | [code](Code_Solutions/Day_23/Program_1.c) |
 | 23 | 2 | Singly Linked List Reverse, sorting and searching. | [code](Code_Solutions/Day_23/Program_2.c) |
-| 23 | 3 | WAP to perform the addition of two polynomial equations using Linked List. | [code](Code_Solutions/Day_23/Program_1.c) |
+| 23 | 3 | WAP to perform the addition of two polynomial equations using Linked List. | [code](Code_Solutions/Day_23/Program_3.c) |
 | 24 | 1 | Double Linked List Operations. | [code](Code_Solutions/Day_24/Program_1.c) |
 | 24 | 2 | Write a program to create a circular linked list and display the elements of the list. | [code](Code_Solutions/Day_24/Program_2.c) |
-| 24 | 3 | Write a program to represent the given sparse matrix using header single linked list and display it. | [code](Code_Solutions/Day_24/Program_1.c) |
+| 24 | 3 | Write a program to represent the given sparse matrix using header single linked list and display it. | [code](Code_Solutions/Day_24/Program_3.c) |
+| 25 | 1 | Stack Operations Using Array. | [code](Code_Solutions/Day_25/Program_1.c) |
+| 25 | 2 | Stack Operations Using Linked List. | [code](Code_Solutions/Day_25/Program_2.c) |
+| 25 | 3 | Write a program to convert infix expression to postfix operation using stack. | [code](Code_Solutions/Day_25/Program_3.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
