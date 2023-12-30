@@ -120,6 +120,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 26 | 1 | Linear Queue Operations Using Array. | [code](Code_Solutions/Day_26/Program_1.c) |
 | 26 | 2 | Linear Queue Operations Using Linked List. | [code](Code_Solutions/Day_26/Program_2.c) |
 | 26 | 3 | Circular Queue Operations Using Array. | [code](Code_Solutions/Day_26/Program_3.c) |
+| 27 | 1 | Deque Operations using Array. | [code](Code_Solutions/Day_27/Program_1.c) |
+| 27 | 2 | Priority Queue Operations using Linked List. | [code](Code_Solutions/Day_27/Program_2.c) |
+| 27 | 3 | Binary Search Tree Operations using Linked List. | [code](Code_Solutions/Day_27/Program_3.c) |
+| 27 | 4 | More Binary Search Tree Operations. | [code](Code_Solutions/Day_27/Program_4.c)  |
+| 27 | 5 | Binary Search Tree Node Deletion. | [code](Code_Solutions/Day_27/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
