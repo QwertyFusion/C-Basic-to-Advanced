@@ -84,6 +84,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 16 | 3 | WAP to print inverted Diamond. | [code](Code_Solutions/Day_16/Program_3.c) |
 | 16 | 4 | WAP to print X Pattern. | [code](Code_Solutions/Day_16/Program_4.c)  |
 | 16 | 5 | C program to print heart star pattern with center name. | [code](Code_Solutions/Day_16/Program_5.c) |  
+| 17 | 1 | WAP to calculate the diameter, circumference and area of a circle using functions. | [code](Code_Solutions/Day_17/Program_1.c) |
+| 17 | 2 | WAP to find the max and min between two numbers using functions. | [code](Code_Solutions/Day_17/Program_2.c) |
+| 17 | 3 | WAP to check even or not using functions. | [code](Code_Solutions/Day_17/Program_3.c) |
+| 17 | 4 | WAP to check if the number is Prime, is Armstrong and is Perfect or not using functions. | [code](Code_Solutions/Day_17/Program_4.c)  |
+| 17 | 5 | WAP to print Strong numbers in a range using functions. | [code](Code_Solutions/Day_17/Program_5.c) | 
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
