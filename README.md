@@ -105,6 +105,9 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 20 | 4 | WAP to find the transpose of a matrix. | [code](Code_Solutions/Day_19/Program_4.c)  |
 | 21 | 1 | WAP to convert Binary to Decimal using array, then binary to hexadecimal. | [code](Code_Solutions/Day_21/Program_1.c) |
 | 21 | 2 | WAP to write the digits in words. | [code](Code_Solutions/Day_21/Program_2.c) |
+| 22 | 1 | WAP to perform transpose of a given sparse matrix in 3-tuple format. | [code](Code_Solutions/Day_22/Program_1.c) |
+| 22 | 2 | WAP to perform addition of two given sparse matrix in 3–tuple format. | [code](Code_Solutions/Day_22/Program_2.c) |
+| 22 | 3 | WAP to perform the addition of two polynomial equations using Array. | [code](Code_Solutions/Day_22/Program_1.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
