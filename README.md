@@ -103,6 +103,8 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 20 | 2 | WAP to construct an n*n matrix and find the sum of the diagonals. | [code](Code_Solutions/Day_19/Program_2.c) |
 | 20 | 3 | Operations on Square Matrix | [code](Code_Solutions/Day_19/Program_3.c) |
 | 20 | 4 | WAP to find the transpose of a matrix. | [code](Code_Solutions/Day_19/Program_4.c)  |
+| 21 | 1 | WAP to convert Binary to Decimal using array, then binary to hexadecimal. | [code](Code_Solutions/Day_21/Program_1.c) |
+| 21 | 2 | WAP to write the digits in words. | [code](Code_Solutions/Day_21/Program_2.c) |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
