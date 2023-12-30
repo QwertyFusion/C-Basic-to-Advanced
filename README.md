@@ -99,6 +99,10 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 19 | 3 | C program to find determinant of 3x3 matrix. | [code](Code_Solutions/Day_19/Program_3.c) |
 | 19 | 4 | C program to check sparse matrix. | [code](Code_Solutions/Day_19/Program_4.c)  |
 | 19 | 5 | C program to check whether a matrix is Identity matrix or not. | [code](Code_Solutions/Day_19/Program_5.c) | 
+| 20 | 1 | Menu Based Array Operations | [code](Code_Solutions/Day_19/Program_1.c) |
+| 20 | 2 | WAP to construct an n*n matrix and find the sum of the diagonals. | [code](Code_Solutions/Day_19/Program_2.c) |
+| 20 | 3 | Operations on Square Matrix | [code](Code_Solutions/Day_19/Program_3.c) |
+| 20 | 4 | WAP to find the transpose of a matrix. | [code](Code_Solutions/Day_19/Program_4.c)  |
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
