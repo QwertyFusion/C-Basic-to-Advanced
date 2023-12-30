@@ -125,6 +125,11 @@ C Programming Basics to Advanced Tutorials day by day basics.
 | 27 | 3 | Binary Search Tree Operations using Linked List. | [code](Code_Solutions/Day_27/Program_3.c) |
 | 27 | 4 | More Binary Search Tree Operations. | [code](Code_Solutions/Day_27/Program_4.c)  |
 | 27 | 5 | Binary Search Tree Node Deletion. | [code](Code_Solutions/Day_27/Program_5.c) | 
+| 28 | 1 | WAP to create an un-directed graph using Adjacency Matrix Method and display the degree of each vertex. | [code](Code_Solutions/Day_28/Program_1.c) |
+| 28 | 2 | In addition to Question 1, display DFS traversal sequence of the undirected graph. | [code](Code_Solutions/Day_28/Program_2.c) |
+| 28 | 3 | In addition to Question 1, display BFS traversal sequence of the undirected graph.. | [code](Code_Solutions/Day_28/Program_3.c) |
+| 28 | 4 | WAP to create a directed graph using Adjacency Matrix Method and display the degree of each vertex. | [code](Code_Solutions/Day_28/Program_4.c)  |
+
 
 ## Programming language used :-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
