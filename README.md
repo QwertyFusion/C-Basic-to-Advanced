@@ -140,9 +140,8 @@
 | 30 | 2 | Heap Sort using function. | [code](Code_Solutions/Day_30/Program_2.c) |
 | 30 | 3 | Binary Search using function. | [code](Code_Solutions/Day_30/Program_3.c) |
 
-
 ## Programming language used :-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
 
 ## Developer
 *   [@QwertyFusion](https://github.com/QwertyFusion)
